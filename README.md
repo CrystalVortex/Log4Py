@@ -22,4 +22,5 @@ SUCCESS("test 5") #Log [SUCCESS]
 # Installation ⬇️
 Download the repository. </br>
 Unzip into place where you need it to be. </br>
+run pip install -r requirements.txt </br>
 Import Log4Py. </br>

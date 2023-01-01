@@ -1,7 +1,7 @@
-# Log4Py
+# Log4Py 🔵
 a simple logging library
 
-# Usage
+# Usage 📃
 Here is a basic file which includes all functions:
 ```
 from log4py import * # import the library
@@ -19,3 +19,7 @@ DEBUG("test 4") #Log [DEBUG]
 SUCCESS("test 5") #Log [SUCCESS]
 
 ```
+# Installation ⬇️
+Download the repository. </br>
+Unzip into place where you need it to be. </br>
+Import Log4Py. </br>
